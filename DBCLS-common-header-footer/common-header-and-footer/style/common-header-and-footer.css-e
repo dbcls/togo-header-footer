@@ -1,0 +1,369 @@
+/* default */
+
+
+/*! minireset.css v0.0.3 | MIT License | github.com/jgthms/minireset.css */
+
+#dbcls-common-header html,
+#dbcls-common-header body,
+#dbcls-common-header p,
+#dbcls-common-header ol,
+#dbcls-common-header ul,
+#dbcls-common-header li,
+#dbcls-common-header dl,
+#dbcls-common-header dt,
+#dbcls-common-header dd,
+#dbcls-common-header blockquote,
+#dbcls-common-header figure,
+#dbcls-common-header fieldset,
+#dbcls-common-header legend,
+#dbcls-common-header textarea,
+#dbcls-common-header pre,
+#dbcls-common-header iframe,
+#dbcls-common-header hr,
+#dbcls-common-header h1,
+#dbcls-common-header h2,
+#dbcls-common-header h3,
+#dbcls-common-header h4,
+#dbcls-common-header h5,
+#dbcls-common-header h6 {
+  margin: 0;
+  padding: 0;
+}
+
+#dbcls-common-header h1,
+#dbcls-common-header h2,
+#dbcls-common-header h3,
+#dbcls-common-header h4,
+#dbcls-common-header h5,
+#dbcls-common-header h6 {
+  font-size: 100%;
+  font-weight: normal;
+}
+
+#dbcls-common-header ul {
+  list-style: none;
+}
+
+#dbcls-common-header button,
+#dbcls-common-header input,
+#dbcls-common-header select,
+#dbcls-common-header textarea {
+  margin: 0;
+}
+
+#dbcls-common-header html {
+  box-sizing: border-box;
+}
+
+#dbcls-common-header img,
+#dbcls-common-header embed,
+#dbcls-common-header iframe,
+#dbcls-common-header object,
+#dbcls-common-header audio,
+#dbcls-common-header video {
+  height: auto;
+  max-width: 100%;
+}
+
+#dbcls-common-header iframe {
+  border: 0;
+}
+
+#dbcls-common-header table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+#dbcls-common-header td,
+#dbcls-common-header th {
+  padding: 0;
+  text-align: left;
+}
+
+#dbcls-common-header header,
+#dbcls-common-header footer {
+  font-family: 'Muli', sans-serif !important;
+}
+
+
+/* dbcls-common-header */
+
+#dbcls-common-header nav.gnav {
+  width: 1024px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#dbcls-common-header .sp_nav {
+  background-color: #004098;
+  display: none;
+}
+
+#dbcls-common-header nav.gnav .pc_nav{
+  width: 400px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#dbcls-common-header nav.gnav .pc_nav li,
+#dbcls-common-header .sp_nav li {
+  list-style: none;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+#dbcls-common-header .sp_nav li {
+  line-height: 2.6em;
+  text-align: center;
+  border-bottom: .5px solid rgba(254, 254, 254, .5);
+}
+
+#dbcls-common-header nav.gnav .pc_nav li a,
+#dbcls-common-header .sp_nav li a {
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+  font-size: 12px;
+}
+
+#dbcls-common-header nav.gnav .pc_nav li a img.dbcls-logo {
+  width: 55px;
+  height: auto;
+  padding-top: 4px;
+  padding-left: 5px;
+}
+
+#dbcls-common-header .hamburger {
+  width: 13px;
+  margin-right: 10px;
+  display: none;
+}
+
+/*! minireset.css v0.0.3 | MIT License | github.com/jgthms/minireset.css */
+
+#dbcls-common-footer html,
+#dbcls-common-footer body,
+#dbcls-common-footer p,
+#dbcls-common-footer ol,
+#dbcls-common-footer ul,
+#dbcls-common-footer li,
+#dbcls-common-footer dl,
+#dbcls-common-footer dt,
+#dbcls-common-footer dd,
+#dbcls-common-footer blockquote,
+#dbcls-common-footer figure,
+#dbcls-common-footer fieldset,
+#dbcls-common-footer legend,
+#dbcls-common-footer textarea,
+#dbcls-common-footer pre,
+#dbcls-common-footer iframe,
+#dbcls-common-footer hr,
+#dbcls-common-footer h1,
+#dbcls-common-footer h2,
+#dbcls-common-footer h3,
+#dbcls-common-footer h4,
+#dbcls-common-footer h5,
+#dbcls-common-footer h6 {
+  margin: 0;
+  padding: 0;
+}
+
+#dbcls-common-footer h1,
+#dbcls-common-footer h2,
+#dbcls-common-footer h3,
+#dbcls-common-footer h4,
+#dbcls-common-footer h5,
+#dbcls-common-footer h6 {
+  font-size: 100%;
+  font-weight: normal;
+}
+
+#dbcls-common-footer ul {
+  list-style: none;
+}
+
+#dbcls-common-footer button,
+#dbcls-common-footer input,
+#dbcls-common-footer select,
+#dbcls-common-footer textarea {
+  margin: 0;
+}
+
+#dbcls-common-footer html {
+  box-sizing: border-box;
+}
+
+#dbcls-common-footer img,
+#dbcls-common-footer embed,
+#dbcls-common-footer iframe,
+#dbcls-common-footer object,
+#dbcls-common-footer audio,
+#dbcls-common-footer video {
+  height: auto;
+  max-width: 100%;
+}
+
+#dbcls-common-footer table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+#dbcls-common-footer td,
+#dbcls-common-footer th {
+  padding: 0;
+  text-align: left;
+}
+
+header,
+footer {
+  font-family: 'Muli', sans-serif !important;
+}
+
+
+/* dbcls-common-footer */
+
+#dbcls-common-footer {
+  padding: 0;
+}
+
+#dbcls-common-footer .footer__common {
+  padding-bottom: 20px;
+  background-color: #f9f8f5;
+  width: 100%;
+  color: #444;
+}
+
+#dbcls-common-footer .footer__common .footer__wrapper {
+  padding-top: 30px;
+  padding-bottom: 18px;
+  width: 800px;
+  margin: 0 auto;
+}
+
+#dbcls-common-footer .footer__common .footer__wrapper .footer__wrapper__contents .footer__info-ja {
+  padding-right: 65px;
+}
+
+#dbcls-common-footer .footer__common .footer__wrapper .footer__wrapper__contents .footer__info {
+  display: -wekit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+#dbcls-common-footer .footer__common .footer__wrapper .footer__wrapper__contents .footer__info .footer__organism {
+  padding-top: 9px;
+}
+
+#dbcls-common-footer .footer__common .footer__wrapper .footer__wrapper__contents .footer__info .footer__organism .footer__logo {
+  width: 150px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+#dbcls-common-footer .footer__common .footer__wrapper .footer__wrapper__contents .footer__info .footer__organism .footer__organism-text {
+  text-align: center;
+  margin-top: 11px;
+  margin-bottom: 20px;
+}
+
+#dbcls-common-footer .footer__common .footer__wrapper .footer__wrapper__contents .footer__info .footer__organism .footer__organism-text .footer__organism-sub {
+  font-size: 12px;
+  line-height: 1.5em;
+  text-align: center;
+}
+
+#dbcls-common-footer .footer__common .footer__wrapper .footer__wrapper__contents .footer__info .footer__organism .footer__organism-text .footer__organism-main {
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+#dbcls-common-footer .footer__common .footer__wrapper .footer__wrapper__contents .footer__info .footer__address {
+  margin-top: 15px;
+}
+
+#dbcls-common-footer .footer__common .footer__wrapper .footer__wrapper__contents .footer__info-ja .footer__address {
+  width: 357px;
+}
+
+#dbcls-common-footer .footer__common .footer__wrapper .footer__wrapper__contents .footer__info-en .footer__address {
+  width: 400px;
+}
+
+#dbcls-common-footer .footer__common .footer__wrapper .footer__wrapper__contents .footer__info .footer__address div.footer-title {
+  font-weight: 800;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+#dbcls-common-footer .footer__common .footer__wrapper .footer__wrapper__contents .footer__info .footer__address ul.address__list {
+  list-style: none;
+  display: -wekit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+#dbcls-common-footer .footer__common .footer__wrapper .footer__wrapper__contents .footer__info .footer__address ul.address__list li {
+  font-size: 12px;
+  line-height: 1.5em;
+}
+
+#dbcls-common-footer .footer__common .footer__wrapper .footer__wrapper__contents .footer__info .footer__address ul.address__list li p {
+  line-height: 1.5em;
+}
+
+#dbcls-common-footer a {
+  text-decoration: none;
+  color: #444;
+}
+
+#dbcls-common-footer a:hover {
+  color: #004098;
+  border-bottom: solid 1px #004098;
+}
+
+.footer__lisence p {
+  font-size: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.footer__lisence p:before {
+  content: "";
+  width: 81px;
+  height: 16px;
+  display: block;
+  background: url(../img/by.svg) no-repeat;
+}
+
+@media screen and (max-width: 480px) {
+  .pc_menu {
+    display: none;
+  }
+
+  #dbcls-common-header nav.gnav {
+    width: 100vw;
+  }
+
+  #dbcls-common-header .hamburger {
+    display: block;
+  }
+
+  #dbcls-common-footer .footer__common .footer__wrapper {
+    width: 100vw;
+  }
+}
